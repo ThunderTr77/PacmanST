@@ -1,6 +1,6 @@
 # 🎮 **Pacman Game** 🚀
 
-![Pacman Logo](https://upload.wikimedia.org/wikipedia/commons/2/28/Pac-Man_Logo.svg)
+![Pacman Logo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w4MTc3dHk5cHAzMmQxNmM4MXd6ZHRvYnJncDltNzQwNXhlMnoyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif)
 
 ## 📜 Giới thiệu
 
