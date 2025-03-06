@@ -1,4 +1,4 @@
-# 🎮 **Pacman Game** - **Modified with New Features** 🚀
+# 🎮 **Pacman Game** 🚀
 
 ![Pacman Logo](https://upload.wikimedia.org/wikipedia/commons/2/28/Pac-Man_Logo.svg)
 
