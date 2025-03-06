@@ -71,7 +71,7 @@ Chúng tôi đã tạo một video hướng dẫn chi tiết cách chơi game v�
 
 ## 📧 Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi nào, hoặc muốn đóng góp cho dự án, vui lòng mở issue trên [GitHub repository này](https://github.com/username/pacman-game).
+Nếu bạn có bất kỳ câu hỏi nào, hoặc muốn đóng góp cho dự án, vui lòng mở issue trên [GitHub repository này](https://github.com/ThunderTr77/PacmanST/issues).
 
 Cảm ơn bạn đã chơi và đóng góp cho game Pacman này! 🕹️
 
