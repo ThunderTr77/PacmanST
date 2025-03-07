@@ -65,7 +65,7 @@ Bạn có thể thay đổi các cài đặt trong phần **Settings** của gam
 
 Chúng tôi đã tạo một video hướng dẫn chi tiết cách chơi game và các tính năng mới của phiên bản này. Bạn có thể xem video dưới đây để hiểu rõ hơn về cách thức hoạt động của game:
 
-[🎥 Xem video hướng dẫn trên YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[🎥 Xem video hướng dẫn trên YouTube](https://www.youtube.com/watch?v=nv9YR8kk1Sw)
 
 ---
 
